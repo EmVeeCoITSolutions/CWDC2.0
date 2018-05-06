@@ -77,8 +77,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="1-html\entities.html" />
     <Content Include="1-html\form.html" />
     <Content Include="1-html\helloworld.html" />
+    <Content Include="1-html\iframe.html" />
     <Content Include="1-html\images.html" />
     <Content Include="1-html\links.html" />
     <Content Include="1-html\lists.html" />
