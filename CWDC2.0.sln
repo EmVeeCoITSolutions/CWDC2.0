@@ -3,13 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-html", "1-html", "{DBD56941-2554-4F7D-9FF0-E29AFC5C88FB}"
-	ProjectSection(SolutionItems) = preProject
-		1-html\helloworld.html = 1-html\helloworld.html
-		1-html\lists.html = 1-html\lists.html
-		1-html\paragraph-tags.html = 1-html\paragraph-tags.html
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWDC2.0", "CWDC2.0\CWDC2.0.csproj", "{8CE2CE1B-13FF-43DF-804B-B4191A5CD337}"
 EndProject
 Global
