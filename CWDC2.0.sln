@@ -6,11 +6,23 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-html", "1-html", "{DBD56941-2554-4F7D-9FF0-E29AFC5C88FB}"
 	ProjectSection(SolutionItems) = preProject
 		1-html\helloworld.html = 1-html\helloworld.html
-		1-html\ordered-lists.html = 1-html\ordered-lists.html
+		1-html\lists.html = 1-html\lists.html
 		1-html\paragraph-tags.html = 1-html\paragraph-tags.html
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWDC2.0", "CWDC2.0\CWDC2.0.csproj", "{8CE2CE1B-13FF-43DF-804B-B4191A5CD337}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE2CE1B-13FF-43DF-804B-B4191A5CD337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE2CE1B-13FF-43DF-804B-B4191A5CD337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE2CE1B-13FF-43DF-804B-B4191A5CD337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE2CE1B-13FF-43DF-804B-B4191A5CD337}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
