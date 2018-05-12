@@ -77,6 +77,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="1-html\challenge.html" />
     <Content Include="1-html\entities.html" />
     <Content Include="1-html\form.html" />
     <Content Include="1-html\helloworld.html" />
@@ -86,6 +87,9 @@
     <Content Include="1-html\lists.html" />
     <Content Include="1-html\paragraph-tags.html" />
     <Content Include="1-html\table.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="2-css\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
