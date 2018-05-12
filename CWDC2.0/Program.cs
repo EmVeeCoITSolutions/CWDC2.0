@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Net.Mail;
 
 namespace CWDC2._0
 {
@@ -17,6 +18,8 @@ namespace CWDC2._0
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            
         }
     }
 }
